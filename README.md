@@ -1,3 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Kirill
+#### Front-end developer
 
-![alt tag](https://i.redd.it/q9cov32d2bq51.jpg "Описание будет тут")​
+About me:
+
+- Lead a healthy lifestyle
+- Completed the courses "technical leader of the project team"
+- Front-end development attracts me with many non-trivial tasks and opportunities for
+development.
+- At the moment I have been working on React.js for the last six months.
+
+Languages:
+- English - B1
+- French - A1
+
+
+Skills:  REACT / REDUX / JS / HTML / CSS / Agile / Scrum
