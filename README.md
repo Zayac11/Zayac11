@@ -4,7 +4,7 @@
 
 <div align="center">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayac11&theme=tokyonight"/></div>
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zayac11&theme=tokyonight"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zayac11&theme=tokyonight"/></div>
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayac11&theme=tokyonight"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zayac11&theme=tokyonight&utcOffset=8"/></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayac11&theme=tokyonight"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zayac11&theme=tokyonight&utcOffset=3"/></div>
 
 <hr/>
 
