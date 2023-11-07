@@ -40,6 +40,7 @@
 <h3>Contacts</h3>
 
 <a href="https://github.com/zayac11"><img src="https://img.shields.io/badge/Github-red?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/></a>
+<a href="https://gitlab.com/zayac11"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/></a>
 <a href="https://t.me/zayac11"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 <a href="https://vk.com/brunogrb3"><img src="https://img.shields.io/badge/vk-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/></a>
 <a href="https://www.codewars.com/users/Zayac11"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars Badge"/></a>
